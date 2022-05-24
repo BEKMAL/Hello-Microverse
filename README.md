@@ -11,7 +11,7 @@ Authors
 
 GitHub: @BEKMAL
 Twitter: @Bekalutsehay
-LinkedIn: Bekalu Malede
+LinkedIn: Bekalu-Malede
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
